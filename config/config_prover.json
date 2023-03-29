@@ -81,7 +81,7 @@
     "proofFile": "proof.json",
 
     "databaseURL_disabled": "local",
-    "databaseURL": "postgresql://statedb:statedb@54.160.226.39:5432/testdb",
+    "databaseURL": "postgresql://state_user:state_password@54.160.226.39:5432/prover_db",
     "dbNodesTableName": "state.nodes",
     "dbProgramTableName": "state.program",
     "dbMultiWrite": true,
